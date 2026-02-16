@@ -1,5 +1,8 @@
-# APKMirror
-download.apkmirror.com chat.openai.com
-www.apkmirror.com chat.openai.com
-apkmirror.com chat.openai.com
-cdn.apkmirror.com chat.openai.com
+# APKMirror via Fastly
+fastly.net
+fastlylb.net
+a248.e.akamai.net
+apkmirror.com
+www.apkmirror.com
+download.apkmirror.com
+cdn.apkmirror.com
